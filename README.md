@@ -2,7 +2,7 @@
   <a href="https://demo.reactadmin.com/bootstrap/adminx/" title="AdminX">AdminX Dashboard Bootstrap version</a>
 </h1>
 
-![Sufee admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/sufee-free-modern-admin-dashboard-template.jpg)
+![AdminX admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/sufee-free-modern-admin-dashboard-template.jpg)
 
 is an admin dashboard template designed to be beautiful and simple it's fully responsive. It comes with a large collection of components that will offer you multiple possibilities to create the app that best suits your needs. It can be used to create admin panels, project management systems, web application backends, CMS or CRM.
 
