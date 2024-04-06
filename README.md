@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://www.google.com/" title="AdminX">AdminX Dashboard Bootstrap version</a>
+  <a href="https://demo.reactadmin.com/bootstrap/adminx/" title="AdminX">AdminX Dashboard Bootstrap version</a>
 </h1>
 
 ![Sufee admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/sufee-free-modern-admin-dashboard-template.jpg)
