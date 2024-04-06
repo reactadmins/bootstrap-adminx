@@ -9,8 +9,6 @@ is an admin dashboard template designed to be beautiful and simple it's fully re
 The product presents a large suite of front-end developer tools that can help you start your project. We built it by thinking about what you actually need in a dashboard.
 Admin Bootstrap Dashboard React has multiple handpicked and optimized components . Everything is designed to fit together. As you will be able to see, the React Admin dashboard you can access is a customization of this product.
 
-It comes with 3 filter colors for the top navbar abd sidebar (`white`, `black`, `red`) and an option to have a background image. 4 layout variations (`vertical`, `horizontal`, `combo`, `dual nav`) to change the layout design.
-
 -   <a title="demo-site" href="https://demo.reactadmin.com/bootstrap/adminx"><strong>Demo Site</strong></a>
     &#x2022;
     <a title="quick-start" href="#quick-start"><strong>Quick Start</strong></a>
@@ -104,7 +102,7 @@ run development server
 Within the download you'll find the following directories and files:
 
 ```
-React Admin Dashboard Bootstrap
+AdminX Dashboard Bootstrap
 
 .
 ├── public
