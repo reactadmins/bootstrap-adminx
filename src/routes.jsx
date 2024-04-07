@@ -34,7 +34,7 @@ const routes = [
     {
         path: ".",
         component: Dashboard,
-    },    
+    },
     {
         path: "/dashboard",
         component: Dashboard,
