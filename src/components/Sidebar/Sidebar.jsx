@@ -21,7 +21,7 @@ const Sidebar = ({ selectSize, setSelectSize }) => {
         if (selectSize === 1024 || selectSize > 0) {
             document.addEventListener("mousedown", (e) => {
                 if (dropRef.current && !dropRef.current.contains(e.target)) {
-                    setSidebarMini(false);
+                    setSidebarMini(true);
                 }
             });
         }
