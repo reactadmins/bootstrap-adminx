@@ -12,8 +12,7 @@ const Navbar = () => {
     const [openNotification, setOpenNotification] = useState(false);
     const [openMessage, setOpenMessage] = useState(false);
     const [openUser, setOpenUser] = useState(false);
-    const { sidebarMini, setSidebarMini, activeRouter } =
-        useDashboardDataContext();
+    const { sidebarMini, setSidebarMini } = useDashboardDataContext();
 
     let dropRef = useRef();
     useEffect(() => {
@@ -29,22 +28,18 @@ const Navbar = () => {
     return (
         <div className={styles.navbars_wrapper}>
             <div className="d-flex align-items-center justify-content-between">
-                <div className="d-flex align-items-center gap-3">
-                    <button
-                        type="button"
-                        className={`${styles.minimize_btn} ${
-                            sidebarMini ? styles.minimize_active : ""
-                        }`}
-                        onClick={() => setSidebarMini(!sidebarMini)}
-                    >
-                        <span></span>
-                        <span className={styles.toggle_effect}></span>
-                        <span></span>
-                    </button>
-                    <span className={styles.active_navlink}>
-                        {activeRouter ? activeRouter : "Dashboard"}
-                    </span>
-                </div>
+                <button
+                    type="button"
+                    className={`${styles.minimize_btn} ${
+                        sidebarMini ? styles.minimize_active : ""
+                    }`}
+                    onClick={() => setSidebarMini(!sidebarMini)}
+                >
+                    <span></span>
+                    <span className={styles.toggle_effect}></span>
+                    <span></span>
+                </button>
+
                 <ul ref={dropRef}>
                     <li>
                         <DarkModeSwitch />

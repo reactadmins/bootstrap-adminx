@@ -21,7 +21,7 @@ const Iconviewer = ({ iconList, pathName, prefix }) => {
                 style={{ top: "0", left: "0", bottom: "0" }}
             >
                 <Link
-                    to={`/components/icons/${pathName}`}
+                    to={`/icons/${pathName}`}
                     className="btn btn-primary px-5"
                 >
                     {pathName}
