@@ -157,7 +157,7 @@ const Layouts = () => {
                 <SidenavUser
                     userImg={userImg}
                     userName="Olivia Rhye"
-                    userEmail="olivia@untitledui.com"
+                    userEmail="olivia@reactadmin.com"
                 />
             </Sidebar>
             <div
