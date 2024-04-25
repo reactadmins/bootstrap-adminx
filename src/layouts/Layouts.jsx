@@ -83,7 +83,7 @@ const Layouts = () => {
                     >
                         <MenuItem routeLink="/forms/basic-form">
                             <i className="fa fa-pencil-square" />
-                            <span>Basic Form</span>
+                            <span>Forms</span>
                         </MenuItem>
                         <MenuItem routeLink="/forms/advanced-form">
                             <i className="fa fa-pencil-square" />

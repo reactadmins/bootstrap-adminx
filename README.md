@@ -130,7 +130,6 @@ AdminX Dashboard Bootstrap
 │   │   │   ├── ProfileCard.module.scsss
 │   │   │   ├── SearchBar.module.scsss
 │   │   │   ├── Sidebar.module.scsss
-│   │   │   ├── SidebarBgWrapper.module.scsss
 │   │   │   ├── SocialButton.module.scsss
 │   │   │   ├── SocialCounter.module.scss.scsss
 │   │   │   ├── SocialStats.module.scsss
@@ -215,8 +214,6 @@ AdminX Dashboard Bootstrap
 │   │   │   └── SearchBar.jsx
 │   │   ├── Sidebar
 │   │   │   ├── Sidebar.jsx
-│   │   │   ├── SidebarBgWrapper.jsx
-│   │   │   └── SidebarMenu.jsx
 │   │   ├── SocialButton
 │   │   │   └── SocialButton.jsx
 │   │   ├── SocialCounter
@@ -271,7 +268,6 @@ AdminX Dashboard Bootstrap
 │   ├── App.jsx
 │   ├── index.scss
 │   ├── main.jsx
-│   ├── nav.jsx
 │   └── routes.jsx
 ├── vite.config.js
 ├── README.md
